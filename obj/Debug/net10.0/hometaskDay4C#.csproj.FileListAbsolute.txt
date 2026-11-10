@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\bin\Debug\net10.0\hometaskDay4C#.exe
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\bin\Debug\net10.0\hometaskDay4C#.deps.json
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\bin\Debug\net10.0\hometaskDay4C#.runtimeconfig.json
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\bin\Debug\net10.0\hometaskDay4C#.dll
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\bin\Debug\net10.0\hometaskDay4C#.pdb
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.dll
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\refint\hometaskDay4C#.dll
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.pdb
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\ref\hometaskDay4C#.dll
+C:\Users\USER\Desktop\C#\week1C#\hometaskDay4C#\obj\Debug\net10.0\hometaskDay4C#.sourcelink.json
